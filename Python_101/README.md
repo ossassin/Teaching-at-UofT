@@ -1,4 +1,4 @@
-#Python 101: Starting from Scratch
+# Python 101: Starting from Scratch
 
 Take your first steps towards programming in Python, one of the most popular programming languages.
 This workshop is intended for people without any experience in programming – absolutely zero prior
